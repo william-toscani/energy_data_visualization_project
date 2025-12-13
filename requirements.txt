@@ -1,0 +1,10 @@
+jupyter
+nbconvert
+numpy
+pandas
+plotly
+matplotlib
+seaborn
+requests
+pandasql
+scipy
